@@ -1,4 +1,9 @@
 import './App.css'
+import About from './components/about';
+import Barnav from './components/barnav';
+import Contact from './components/contact';
+import Home from './components/home';
+import Menu from './components/menu';
 
 function App() {
   
@@ -13,8 +18,14 @@ let score = 40 + 39;
 <div className="wrapped">
 <p className="">My score is {score}</p>
 <h2 className="">This is a h2 tag</h2>
+<Barnav/>
+<About/>
+<Contact/>
+<Home/>
+<Menu/>
+
 </div>
-    </div>
+  
       
       
     </>
