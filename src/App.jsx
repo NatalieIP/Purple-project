@@ -5,15 +5,16 @@ import Contact from './components/contact';
 import Home from './components/home';
 import Menu from './components/menu';
 
+//This is a comment for the page.
+/*This is a 
+multiple line 
+comment 
+*/
 function App() {
-  
-let name = "Raven";
-let score = 40 + 39;
-
   return (
     <>
    <div>
-    This is a new Vite project for {name}
+    This is a new Vite project
    </div>
 <div className="wrapped">
 <p className="">My score is {score}</p>
@@ -28,8 +29,14 @@ let score = 40 + 39;
   
       
       
-    </>
-  )
+</>
+)
+
+
 }
+
+  
+
+  
 
 export default App
