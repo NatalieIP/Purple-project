@@ -2,6 +2,7 @@ import './App.css'
 import About from './components/about';
 import Barnav from './components/barnav';
 import Contact from './components/contact';
+import Header from './components/header';
 import Home from './components/home';
 import Menu from './components/menu';
 
@@ -24,6 +25,7 @@ function App() {
 <Contact/>
 <Home/>
 <Menu/>
+<Header/>
 
 </div>
   
