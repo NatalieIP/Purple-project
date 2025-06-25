@@ -3,6 +3,8 @@
     justify-items: center;
     align-items: center;
     gap: 30px;
-    
+    color: black;
 }
-
+.sample {
+    color: black;
+}

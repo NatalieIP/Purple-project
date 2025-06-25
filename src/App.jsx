@@ -18,14 +18,15 @@ function App() {
     This is a new Vite project
    </div>
 <div className="wrapped">
-<p className="">My score is {score}</p>
-<h2 className="">This is a h2 tag</h2>
+<p className="Score">My score is {score}</p>
+<h2 className="Tag">This is a h2 tag</h2>
+<Header/>
 <Barnav/>
 <About/>
 <Contact/>
 <Home/>
 <Menu/>
-<Header/>
+
 
 </div>
   
