@@ -4,7 +4,15 @@
     align-items: center;
     gap: 30px;
     color: black;
+
 }
+.image {
+    color: black;
+}
+.navg {
+    color: black;
+}
+
 .sample {
     color: black;
 }
