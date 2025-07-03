@@ -12,6 +12,8 @@ multiple line
 comment 
 */
 function App() {
+
+  let score = 101
   return (
     <>
    <div>
